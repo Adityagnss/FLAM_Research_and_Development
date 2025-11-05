@@ -10,6 +10,12 @@
 
 The above link shows the parametric curve plotted with the optimized parameters for t ∈ [6, 60].
 
+## Comprehensive Analysis Dashboard
+
+![Comprehensive Analysis](comprehensive_analysis.png)
+
+*9-panel analysis dashboard showing: parametric curve fit, convergence history, component analysis, residual analysis, error distributions, and performance metrics.*
+
 ## Optimized Parameters
 
 - **θ = 28.026936°** (0.489162 rad)
